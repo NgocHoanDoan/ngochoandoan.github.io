@@ -13,8 +13,7 @@ This repository contains the source code and static assets for the personal acad
   - **3 Core Research Pillars**: Hemostatic Dressings, 3D Tissue Engineering Scaffolds & dECM, Functional Nanofibers & Smart Sensors.
   - **Funded Research Grants**: NAFOSTED PI (2024–2027), VNU-HCM Type C PI (2024–2026), Ben Tre Provincial Grant PI (2023–2025), HCMIU PI (2025–2027).
   - **Patents**: IP Vietnam Application No. `1-2025-03421`.
-  - **Editorial Roles & Honors**: Young Editorial Board (*Collagen and Leather*, Q1 Springer Nature), VNU-HCM President's Certificate of Merit, CSTĐCS, MEXT, JASSO.
-  - **Direct CV Download**: Always bundled with the latest print-ready CV PDF (`Hoan_Ngoc_Doan_CV_2026_Latest.pdf`).
+  - **Editorial Roles & Honors**: Young Editorial Board (*Collagen and Leather*, Q1 Springer Nature), VNU-HCM President's Certificate of Merit, MEXT, JASSO.
 
 ---
 
@@ -68,7 +67,6 @@ Academic_Website/
 ├── .nojekyll                          # Bypasses Jekyll processing on GitHub Pages
 ├── vercel.json                        # Cache and routing headers for Vercel
 ├── index.html                         # Main responsive single-page application
-├── Hoan_Ngoc_Doan_CV_2026_Latest.pdf  # Downloadable PDF CV
 ├── README.md                          # Documentation and deployment guide
 └── assets/
     ├── avatar.jpg                     # Official portrait photo
