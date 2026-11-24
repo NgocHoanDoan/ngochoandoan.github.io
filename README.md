@@ -12,7 +12,7 @@ This repository contains the source code and static assets for the personal acad
 - **Comprehensive Academic Dossier**:
   - **3 Core Research Pillars**: Hemostatic Dressings, 3D Tissue Engineering Scaffolds & dECM, Functional Nanofibers & Smart Sensors.
   - **Funded Research Grants**: NAFOSTED PI (2024–2027), VNU-HCM Type C PI (2024–2026), Ben Tre Provincial Grant PI (2023–2025), HCMIU PI (2025–2027).
-  - **Patents**: IP Vietnam Application No. `1-2025-03421`.
+  - **Patents**: IP Vietnam Application No. `1-2025-03421` and Application No. `VN1202409088` (1-2024-09088).
   - **Editorial Roles & Honors**: Young Editorial Board (*Collagen and Leather*, Q1 Springer Nature), VNU-HCM President's Certificate of Merit, MEXT, JASSO.
 
 ---
